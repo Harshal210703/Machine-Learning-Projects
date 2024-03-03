@@ -12,5 +12,5 @@ Once the Markov model is constructed, we simulate a random walk through the mode
 
 #### Useful Links:
 - [Navigate to the Dataset](./Dataset)
-- [Sherlock Holmes Silhouette](./Sherlock_Holmes_Silhouette)
-- [View My Jupyter Notebook File](./Sherlock_Holmes_Stories.ipynb)
+- [Sherlock Holmes Silhouette](./Sherlock%20Holmes%20Silhouette)
+- [View My Jupyter Notebook File](./Sherlock%20Holmes%20Stories.ipynb)

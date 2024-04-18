@@ -2,7 +2,7 @@
 
 ## [Handwriting Text Recognition (HTR)](https://github.com/Harshal210703/Machine-Learning-Projects/tree/main/Handwriting%20Text%20Recognition)
 
-**Introduction:** This project first delves into the foundational models that have historically been used for Handwriting Text Recognition (HTR). We explore the core principles behind [Hidden Markov Models (HMMs)](./Markov%20Chains) and [Support Vector Machines (SVMs)](./Support%20Vector%20Machines) to lay the groundwork for understanding a more advanced technique.
+**Introduction:** This project first delves into the foundational models that have historically been used for Handwriting Text Recognition (HTR). We explore the core principles behind [Hidden Markov Models (HMMs)](./Handwriting%20Text%20Recognition/Markov%20Chains) and [Support Vector Machines (SVMs)](./Handwriting%20Text%20Recognition/Support%20Vector%20Machines) to lay the groundwork for understanding a more advanced technique.
 
 **Articles:** A series of articles exploring the fundamentals of Handwriting Text Recognition:
 - 1.1 — [Understanding Markov Models](https://medium.com/@harshal210703/exploring-fundamentals-in-handwriting-text-recognition-10d80ead738f)
